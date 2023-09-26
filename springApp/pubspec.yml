@@ -15,5 +15,5 @@ phases:
     - echo Build completed on `date`
 artifacts:
   files:
-  - target/bike-service-0.0.1-SNAPSHOT.war
+  - target/springApp-0.0.1-SNAPSHOT.war
   - scripts/*
