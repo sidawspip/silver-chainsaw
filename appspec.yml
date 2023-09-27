@@ -3,7 +3,7 @@ os: linux
 
 files:
   - source: /
-    destination: /var/www/myapp
+    destination: /var/www/html
 
 #  version: 0.0
 #  os: linux
