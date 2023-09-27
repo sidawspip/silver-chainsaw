@@ -2,8 +2,8 @@ version: 0.0
 os: linux
 
 files:
-  - source: /
-    destination: /var/www/myapp
+  - source: ./index.html
+    destination: /var/www/html
 
 #  version: 0.0
 #  os: linux
