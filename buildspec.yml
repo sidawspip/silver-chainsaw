@@ -4,10 +4,6 @@ phases:
   install:
     runtime-versions:
       java: corretto11
-  pre_build:
-    commands:
-      - echo In the pre_build phase...
-      - mvn clean
   build:
     commands:
       - echo Build started on `date`
